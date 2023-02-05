@@ -1,0 +1,4 @@
+name Test_Game
+thumb_nail /home/pi/Desktop/console_system/games/test_game/image.jpg
+creator Noah_Chaney
+date_released 02-04-2023
